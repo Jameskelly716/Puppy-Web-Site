@@ -1,0 +1,27 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="TempePuppy.com" resolutions="1x" timestamp="1479756574767">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="246536411" ref="index"/>
+    <file name="page-1.css" crc="149642037" ref="page-1"/>
+    <file name="page-2.css" crc="3960191126" ref="page-2"/>
+    <file name="page-3.css" crc="4097977911" ref="page-3"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:page-1:page-2:page-3"/>
+    <file name="museutils.js" crc="163421577" ref="index:page-1:page-2:page-3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:page-1:page-2:page-3"/>
+    <file name="museconfig.js" crc="36584860" ref="index:page-1:page-2:page-3"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:page-1:page-2:page-3"/>
+    <file name="require.js" crc="244322403" ref="index:page-1:page-2:page-3"/>
+  </folder>
+  <folder name="images">
+    <file name="img_0761.jpg" crc="4190059203" seo="true" ref="index"/>
+    <file name="img_0986.jpg" crc="431710430" seo="true" ref="page-1"/>
+    <file name="img_1121.jpg" crc="186333778" seo="true" ref="page-2"/>
+    <file name="img_1135.jpg" crc="4054090907" seo="true" ref="page-3"/>
+  </folder>
+  <file name="index.html" crc="214307597" seo="true" mt="1479756348609" redirect="true"/>
+  <file name="page-1.html" crc="407700358" seo="true" mt="1479756363330" redirect="true"/>
+  <file name="page-2.html" crc="3770688846" seo="true" mt="1479756376443" redirect="true"/>
+  <file name="page-3.html" crc="3877692712" seo="true" mt="1479756391499" redirect="true"/>
+</manifest>
